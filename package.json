@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@tailwindcss/cli": "^4.1.7",
+    "datatables.net": "^2.3.0",
+    "datatables.net-bs4": "^2.3.0",
+    "tailwindcss": "^4.1.7"
+  }
+}
